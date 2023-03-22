@@ -13,4 +13,4 @@ hello git! hello mzh!
 hello git! hello mzh!
 hello git! hello mzh!
 hello git! hello mzh!master test!
-hello git! hello mzh!
+hello git! hello mzh!hot-fix!
